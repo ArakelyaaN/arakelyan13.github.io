@@ -5,18 +5,18 @@
 
 @font-face {
     font-family: modersArm;
-    src: url(./assets/moders.ttf);
+    src: url(moders.ttf);
 }
 
 @font-face {
     font-family: woodType;
-    src: url(./assets/woodType.ttf);
+    src: url(woodType.ttf);
     font-style: bold;
 }
 
 @font-face {
     font-family: bebas;
-    src: url(./assets/bebas.ttf);
+    src: url(bebas.ttf);
     font-style: bold;
 }
 
