@@ -54,7 +54,7 @@
     text-align: center;
     padding: 20px;
     position: absolute;
-    top: 40%; /* Adjusted to center vertically */
+    top: 50%; /* Adjusted to center vertically */
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
